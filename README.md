@@ -22,7 +22,7 @@
 
 * 在 ``package.json`` 中添加 ``scripts``字段
 
-     "scripts": {
+    "scripts": {
        "build": "babel src -d lib"
      }
 
