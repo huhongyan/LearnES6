@@ -8,7 +8,7 @@
 
 * 安装Babel6 （要在命令行中执行安装babel-cli, 要在node项目中执行安装babel-core）
 
-     $ npm install --save-dev babel-cli
+````$ npm install --save-dev babel-cli````
 
  安装插件
 
