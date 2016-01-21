@@ -32,5 +32,5 @@
 
 #### 创建.babelrc配置文件
 
-````echo '{ "presets": ["es2015"] }' > .babelrc````
+````echo { "presets": ["es2015"] } > .babelrc````
 
