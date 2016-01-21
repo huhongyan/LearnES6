@@ -29,11 +29,14 @@
  之后便可以直接运行 ``$ npm run build``
 
 * 或者可以直接执行 ``$ babel src -d lib``
+
 * 如果使用webstorm，可以直接在ide中配置
-    - 配置支持es6
-     Setting > Languages & Frameworks > JavaScript
-    - 自动转码为ES5
-     Setting > Tools > File watchers
+
+- 配置支持es6
+Setting > Languages & Frameworks > JavaScript
+
+- 自动转码为ES5
+Setting > Tools > File watchers
 
 #### 创建.babelrc配置文件
 
