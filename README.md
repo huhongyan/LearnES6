@@ -33,9 +33,11 @@
 * 如果使用webstorm，可以直接在ide中配置
 
  - 配置支持es6
+ 
 Setting > Languages & Frameworks > JavaScript
 
  - 自动转码为ES5
+ 
 Setting > Tools > File watchers
 
 #### 创建.babelrc配置文件
