@@ -41,11 +41,14 @@
 ### 浏览器版Babel
 
 * 安装5.x版本的babel-core模块
+
 ``$ npm install babel-core@5``
+
 * 下面的代码插入网页
-    <script src="node_modules/babel-core/browser.js"></script>
-    <script type="text/babel">
-    // Your ES6 code
-    </script>
+
+     <script src="node_modules/babel-core/browser.js"></script>
+     <script type="text/babel">
+     // Your ES6 code
+     </script>
 
 
